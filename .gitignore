@@ -4,6 +4,7 @@
 /build
 
 .env
+.env.template
 
 # Logs
 logs
